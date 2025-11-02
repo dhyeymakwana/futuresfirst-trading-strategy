@@ -40,7 +40,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact 📩
 For any questions or inquiries, feel free to reach out to us:
-- **Email:** adarsh36jnp@gmail.com
+- **Email:** dhyeymakwana12@gmai.com
 - **LinkedIn:** [Dhyey Makwana](www.linkedin.com/in/dhyeymakwana)
 
 Let's make accurate stock market predictions together!
